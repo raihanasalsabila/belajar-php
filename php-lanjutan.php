@@ -102,7 +102,7 @@ echo $pesan;
             case "zein";
                 $pesan = $_POST['nama']." adalah artis luar negri ";
             break;
-            case "Ferdi";
+            case "Ferdi";p
                 $pesan = $_POST['nama']." bukan orang Arab";
             break;
             default:
